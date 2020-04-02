@@ -1,3 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 # T08.blast filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> parent of 683ab85... add
+T08.blast filter=lfs diff=lfs merge=lfs -text
