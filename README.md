@@ -40,7 +40,7 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
 ## Download
   Open the terminal and input:
   ```bash
-  git clone https://github.com/Lilab-SNNU/Pcirc
+  git clone https://github.com/ChasingWind/Pcirc_v1.0
   ```
 ---
 ## Usage
