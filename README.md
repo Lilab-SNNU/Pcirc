@@ -83,7 +83,7 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
 ---
 ## Run example
 
-You can download the required sra file from [NCBI-SRA](https://www.ncbi.nlm.nih.gov/sra/SRR3495992) or fasta file from [EMBL-EBI](https://www.ebi.ac.uk/), we also provide the other required files in example.tar.xz, it includes some files (include genome.fa, genome.gtf) of  *Arabidopsis thaliana* , you can download the RNA_seq as example run Pcirc. 
+You can download the required sra file from [NCBI-SRA](https://www.ncbi.nlm.nih.gov/sra/SRR3495992) or fasta file from [EMBL-EBI](https://www.ebi.ac.uk/), we also provide the other required files in example.tar.xz, it includes some files (include genome.fa, genome.gtf and test.blast) of  *Arabidopsis thaliana* , you can download the RNA_seq of *Arabidopsis thaliana* as example run ***Pcirc*** or use the *test.blast* ***run step Circular RNA predicting***. 
 
 ---
 ## Contact us
