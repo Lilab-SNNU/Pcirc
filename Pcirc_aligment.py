@@ -48,7 +48,5 @@ elif num_fq == 2:
               (threads, output_dir, gtf_filename, genome_index, inputs[0], inputs[1]))
 print('='*20 + 'Tophat end' + '='*20)
 
-os.system("samtools view %s/unmapped.bam | "
-          "awk \'{OFS=\"\t\"; print \">\"$1\"\n\"$10}\' - > "
-          "%s/unmapped.fasta" %
+os.system(r'''samtools view %s/unmapped.bam | awk '{OFS="\t"; print ">"$1"\n"$10}' - > %s/unmapped.fasta''' %
           (output_dir, output_dir))
