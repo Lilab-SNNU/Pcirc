@@ -4,7 +4,7 @@
 
 PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Python3***.  It can identify circRNA from  a given ***RNA-seq*** data by high-throughput. The pipeline can alignment RNA_seq and extract features ,then based on Random Forest classification, the final circRNA will be predicted. The user only needs to ***run the python scripts*** step by step to get the predicted circular RNA.
 
-![PCirc](C:\Users\Lenovo\Desktop\paper\pcirc2.jpg)
+![PCirc](https://github.com/ChasingWind/Pcirc_v1.0/blob/master/Figure/Pcirc.jpg)
 
 ---
 
