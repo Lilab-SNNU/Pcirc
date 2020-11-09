@@ -32,6 +32,8 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
 
 - Biopython (v.1.72+): (https://pypi.org/project/biopython/)
 - Pandas (v.0.23.3+): (https://pypi.org/project/pandas/)
+- Pyyaml (v.5.3.1): (https://pypi.org/project/pyyaml/)
+- Scikit-learn (v.0.21.2): (https://scikit-learn.org/stable/)
 
 ### Supported operating systems：
 ![](https://s2.ax1x.com/2019/08/30/mX31PK.th.jpg)
