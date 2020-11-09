@@ -63,7 +63,7 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
    python3 Pcirc_aligment.py -g genome.fa -G genome.gtf -o output_dir <reads_1[,reads_2]>
   ```
 
-  2. blast
+  2. Blast
 
      Blast alignment of unmapped reads sequence and genomic sequences, in this step need given file:
 
