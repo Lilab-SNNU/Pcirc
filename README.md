@@ -47,7 +47,7 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
 ---
 ## Usage
 
-### - You can run Pcirc step by step
+### - You can run Pcirc step by step use command line
 
   1. Alignment
 
@@ -82,6 +82,10 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
   ```bash
    python3 Pcirc_predict.py -i unmapped.blast -g genome.fa
   ```
+
+### - You can also run Pcirc in graphical user interface(GUI) 
+   If you use the GUI, please ensure the R, Rstudio and Rshiny in your PC.
+
 ---
 ## Run example
 
