@@ -85,8 +85,10 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
 
 ### - You can also run Pcirc in graphical user interface(GUI) 
    Step1:Open the shiny.R in Rstudio
+   
    Step2:Click the "Run APP" button, then you open the GUI
    ![Step2](https://github.com/Lilab-SNNU/Pcirc/blob/master/Figure/Step2.png)
+   
    Step3:Upload you files, and click the 'RUN' button, running the PCirc
    ![Step3](https://github.com/Lilab-SNNU/Pcirc/blob/master/Figure/Step3.png)
 
