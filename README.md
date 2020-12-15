@@ -28,7 +28,7 @@ PCirc is a pipeline to predict plant circular RNA (CircRNA) which based on ***Py
 
 - UGENE(1.30.0+):(http://ugene.net/)
 
-### python3 package:
+### Python3 package:
 
 - Biopython (v.1.72+): (https://pypi.org/project/biopython/)
 - Pandas (v.0.23.3+): (https://pypi.org/project/pandas/)
