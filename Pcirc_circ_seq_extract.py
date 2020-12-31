@@ -58,7 +58,7 @@ def get_seq(info_file, genome_file):
             circ_down_seq = genome_dict[chr_name][-end_site - 50:-end_site + 50]
             circ_seq, circ_up_seq, circ_down_seq = reverse(circ_seq), reverse(circ_up_seq), reverse(circ_down_seq)
 
-        elif start_site >= 50 and len(genome_dict[chr_name]) - end_site < 50 and strand == '+':
+        elif start_site >= 50 and len(genome_dict[chr_name]) - end_site < 50 and strand == '-':
             circ_seq = genome_dict[chr_name][-end_site:-(start_site - 1)]
             circ_up_seq = genome_dict[chr_name][-start_site - 50:-start_site + 50]
             circ_down_seq = genome_dict[chr_name][0:100]
