@@ -36,4 +36,4 @@ os.system("makeblastdb -in %s -dbtype nucl -out %s" %
           (genome_filename, genome_database))
 
 os.system("blastn -db %s -query %s -out %s -outfmt 6 -evalue %f -num_thread %d" %
-          (genome_database, query_filename, output_file, evalue, num_threads))
+          (genome_database, query_filename, output_file, evalue, num_thread))
